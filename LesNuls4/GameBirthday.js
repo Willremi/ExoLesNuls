@@ -12,5 +12,3 @@ calculation = calculation - birthMonth;
 calculation = calculation / 10;
 calculation = calculation + 11;
 calculation = calculation / 100;
-
-document.write("Voici votre date d'anniversaire : " + calculation);
